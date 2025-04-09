@@ -1,6 +1,7 @@
 # 🧠 Desafios de Lógica de Programação - Parte 2
 
 Este repositório contém soluções em Java para desafios de lógica de programação. Este é um repositório complementar ao anterior, criado para manter a organização dos exercícios à medida que o volume aumenta.
+
 Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-logic-and-algorithms
 
 ## ✨ Problemas Resolvidos
