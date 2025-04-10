@@ -4,12 +4,11 @@ Este repositório contém soluções em Java para desafios de lógica de program
 
 Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-logic-and-algorithms
 
-## ✨ Problemas Resolvidos
-
-1. [✖ Multiplicação de Matrizes](#1--multiplicação-de-matrizes)
+## Índice
+1. 🔢 Multiplicação de Matrizes
+2. 🧩 Particionamento Palindrômico
 
 ---
-
 ## 1. ✖ Multiplicação de Matrizes
 
 ### ✨ Problema:
@@ -42,10 +41,39 @@ Para compilar e executar a solução em Java:
 javac MatrixMultiplication.java
 java MatrixMultiplication
 ```
+---
 
-### 📊 Tecnologias Utilizadas
-- Java para implementação dos algoritmos.
-- Lógica de programação básica para manipulação de matrizes.
+## 2. 🧩 Particionamento Palindrômico
+
+### ✨ Problema:
+Dada uma string `s`, particione-a de forma que todas as substrings sejam palíndromos. Retorne o número mínimo de cortes necessários.
+
+### 🔄 Entrada:
+- Uma string `s`.
+
+### 🔠 Saída:
+- Um número inteiro representando o mínimo de cortes.
+
+### 📝 Exemplo:
+```bash
+Entrada:
+s = "aab"
+
+Saída:
+1  # ("aa" | "b")
+```
+
+### ⚙️ Como Executar:
+```bash
+javac PalindromicPartition.java
+java PalindromicPartition
+```
+
+---
+
+## ✨ Tecnologias Utilizadas
+- **Java** para implementação dos algoritmos.
+- **Programação Dinâmica** para otimização das soluções.
 
 ### 💪 Contribuição
 Sinta-se à vontade para contribuir com melhorias nas soluções ou adicionar novos desafios!
