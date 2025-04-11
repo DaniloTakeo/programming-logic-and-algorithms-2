@@ -7,6 +7,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 ## Índice
 1. 🔢 Multiplicação de Matrizes
 2. 🧩 Particionamento Palindrômico
+3. 🚫 Remover Elementos Duplicados de uma Lista
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -70,6 +71,26 @@ java PalindromicPartition
 ```
 
 ---
+
+## 3. 🚫 Remover Elementos Duplicados de uma Lista
+
+### 💡 Problema:
+Dada uma lista de inteiros, remova os elementos duplicados mantendo a ordem original.
+
+### 💻 Exemplo:
+```bash
+Entrada: [1, 3, 2, 1, 4, 3, 5]
+Saída: [1, 3, 2, 4, 5]
+```
+
+### ▶️ Execução:
+```bash
+javac RemoverDuplicatas.java
+java RemoverDuplicatas
+```
+
+---
+
 
 ## ✨ Tecnologias Utilizadas
 - **Java** para implementação dos algoritmos.
