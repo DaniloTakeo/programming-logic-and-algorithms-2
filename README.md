@@ -8,6 +8,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 1. 🔢 Multiplicação de Matrizes
 2. 🧩 Particionamento Palindrômico
 3. 🚫 Remover Elementos Duplicados de uma Lista
+4. 🔤 Verificar Anagramas
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -87,6 +88,44 @@ Saída: [1, 3, 2, 4, 5]
 ```bash
 javac RemoverDuplicatas.java
 java RemoverDuplicatas
+```
+
+---
+
+## 4. 🔤 Verificar Anagramas
+
+### ✨ Problema:
+Verificar se duas strings são anagramas — ou seja, contêm exatamente os mesmos caracteres, com a mesma frequência, mas possivelmente em ordens diferentes.
+
+### 🔄 Entrada:
+- Duas strings.
+
+### 🔠 Saída:
+- `true` se forem anagramas.
+- `false` caso contrário.
+
+### 📝 Exemplo:
+```bash
+Entrada:
+"listen", "silent"
+Saída:
+true
+
+Entrada:
+"hello", "world"
+Saída:
+false
+
+Entrada:
+"Dormitory", "Dirty room"
+Saída:
+true
+```
+
+### ⚙️ Como Executar:
+```bash
+javac AnagramCheck.java
+java AnagramCheck
 ```
 
 ---
