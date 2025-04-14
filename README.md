@@ -9,6 +9,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 2. 🧩 Particionamento Palindrômico
 3. 🚫 Remover Elementos Duplicados de uma Lista
 4. 🔤 Verificar Anagramas
+5. 🔢 Contar Substrings com Soma de Dígitos Igual a K
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -126,6 +127,25 @@ true
 ```bash
 javac AnagramCheck.java
 java AnagramCheck
+```
+
+---
+
+## 5. 🔢 Contar Substrings com Soma de Dígitos Igual a K
+
+### Problema:
+Contar quantas substrings em uma string de dígitos possuem soma dos seus dígitos igual a `k`.
+
+### Entrada:
+- Uma string `s` e um inteiro `k`.
+
+### Saída:
+- Quantidade de substrings com soma igual a `k`.
+
+### Exemplo:
+```bash
+Entrada: s = "123123", k = 6
+Saída: 4
 ```
 
 ---
