@@ -151,7 +151,7 @@ Saída: 4
 
 ---
 
-## 5. 🔀 Intercalar Listas Ordenadas
+## 6. 🔀 Intercalar Listas Ordenadas
 
 ### ✨ Problema:
 Dadas duas listas ordenadas de inteiros, intercale-as em uma única lista ordenada.
