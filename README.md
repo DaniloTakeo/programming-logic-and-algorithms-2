@@ -10,6 +10,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 3. 🚫 Remover Elementos Duplicados de uma Lista
 4. 🔤 Verificar Anagramas
 5. 🔢 Contar Substrings com Soma de Dígitos Igual a K
+6. 🔀 Intercalar Listas Ordenadas
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -150,6 +151,32 @@ Saída: 4
 
 ---
 
+## 5. 🔀 Intercalar Listas Ordenadas
+
+### ✨ Problema:
+Dadas duas listas ordenadas de inteiros, intercale-as em uma única lista ordenada.
+
+### 🔄 Entrada:
+- Duas listas ordenadas `list1` e `list2`.
+
+### 🔠 Saída:
+- Uma nova lista contendo todos os elementos de `list1` e `list2`, também ordenada.
+
+### 📝 Exemplo:
+```bash
+Entrada:
+list1 = [1, 3, 5]
+list2 = [2, 4, 6]
+Saída: [1, 2, 3, 4, 5, 6]
+```
+
+### ⚙️ Como Executar:
+```bash
+javac MergeSortedLists.java
+java MergeSortedLists
+```
+
+---
 
 ## ✨ Tecnologias Utilizadas
 - **Java** para implementação dos algoritmos.
