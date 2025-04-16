@@ -11,6 +11,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 4. 🔤 Verificar Anagramas
 5. 🔢 Contar Substrings com Soma de Dígitos Igual a K
 6. 🔀 Intercalar Listas Ordenadas
+7. 🔢 Área do Maior Quadrado de 1s
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -175,6 +176,25 @@ Saída: [1, 2, 3, 4, 5, 6]
 javac MergeSortedLists.java
 java MergeSortedLists
 ```
+
+---
+
+## 7. Área do Maior Quadrado de 1s
+
+### Descrição
+Dada uma matriz binária (composta apenas por `0`s e `1`s), encontre a **área** do maior quadrado composto apenas por `1`s.
+
+### Exemplo
+```
+Entrada:
+[
+  ['1','0','1','0','0'],
+  ['1','0','1','1','1'],
+  ['1','1','1','1','1'],
+  ['1','0','0','1','0']
+]
+
+Saída: 4
 
 ---
 
