@@ -12,6 +12,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 5. 🔢 Contar Substrings com Soma de Dígitos Igual a K
 6. 🔀 Intercalar Listas Ordenadas
 7. 🔢 Área do Maior Quadrado de 1s
+8. 🔀 Rotacionar o Array à Direita
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -195,6 +196,21 @@ Entrada:
 ]
 
 Saída: 4
+```
+---
+
+## 8.🔀 Rotacionar o Array à Direita
+
+Dado um array de inteiros e um número `k`, rotacione o array à direita `k` vezes.
+
+### Exemplo:
+
+```java
+Entrada:
+nums = [1, 2, 3, 4, 5, 6, 7], k = 3
+
+Saída:
+[5, 6, 7, 1, 2, 3, 4]
 ```
 
 ---
