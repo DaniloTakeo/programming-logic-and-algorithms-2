@@ -179,7 +179,7 @@ java MergeSortedLists
 
 ---
 
-## 7. Área do Maior Quadrado de 1s
+## 7. 🔢Área do Maior Quadrado de 1s
 
 ### Descrição
 Dada uma matriz binária (composta apenas por `0`s e `1`s), encontre a **área** do maior quadrado composto apenas por `1`s.
@@ -195,6 +195,7 @@ Entrada:
 ]
 
 Saída: 4
+```
 
 ---
 
