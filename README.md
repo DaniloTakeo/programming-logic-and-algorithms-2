@@ -13,6 +13,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 6. 🔀 Intercalar Listas Ordenadas
 7. 🔢 Área do Maior Quadrado de 1s
 8. 🔀 Rotacionar o Array à Direita
+9. 🔍 Caminho Máximo em um Grafo
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -211,6 +212,31 @@ nums = [1, 2, 3, 4, 5, 6, 7], k = 3
 
 Saída:
 [5, 6, 7, 1, 2, 3, 4]
+```
+
+---
+
+## 9. 🔍Caminho Máximo em um Grafo
+
+### ✨ Problema:
+Dado um grafo acíclico direcionado (DAG), encontre o caminho de maior comprimento entre dois vértices, considerando que as arestas podem ter pesos positivos.
+
+### 🔄 Entrada:
+- Uma lista de arestas com pesos representando o grafo.
+- Um vértice de origem e um vértice de destino.
+
+### 🔠 Saída:
+- O comprimento do caminho mais longo do vértice de origem até o vértice de destino.
+
+### 📝 Exemplo:
+```bash
+Entrada:
+Arestas = [(0, 1, 5), (0, 2, 3), (1, 3, 6), (2, 3, 7)]
+Origem = 0
+Destino = 3
+
+Saída:
+12
 ```
 
 ---
