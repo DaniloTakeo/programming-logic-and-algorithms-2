@@ -14,6 +14,7 @@ Caso você queira ver a parte 1 -> https://github.com/DaniloTakeo/programming-lo
 7. 🔢 Área do Maior Quadrado de 1s
 8. 🔀 Rotacionar o Array à Direita
 9. 🔍 Caminho Máximo em um Grafo
+10. ✨ Contar Inversões de um Array
 
 ---
 ## 1. ✖ Multiplicação de Matrizes
@@ -238,6 +239,18 @@ Destino = 3
 Saída:
 12
 ```
+
+---
+
+## ✨ 10. Contar Inversões em um Array
+
+**Descrição:**  
+Dado um array de inteiros, conte o número de pares de índices `(i, j)` tal que `i < j` e `array[i] > array[j]`.
+
+**Exemplo:**  
+Entrada: `[2, 4, 1, 3, 5]`  
+Saída: `3`  
+*Explicação: Os pares que satisfazem a condição são (2,1), (4,1), (4,3).*
 
 ---
 
